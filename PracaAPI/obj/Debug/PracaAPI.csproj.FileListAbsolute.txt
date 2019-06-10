@@ -1,0 +1,550 @@
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\ApplicationInsights.config
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\PracaAPI.dll.config
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\PracaAPI.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\PracaAPI.pdb
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\csc.exe
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\csc.exe.config
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\csc.rsp
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\csi.exe
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\csi.exe.config
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\csi.rsp
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.Console.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\vbc.exe
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\vbc.exe.config
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\vbc.rsp
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Antlr3.Runtime.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\EntityFramework.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Owin.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Newtonsoft.Json.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Owin.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Web.Cors.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Web.Helpers.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Web.Http.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Web.Http.Owin.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Web.Mvc.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Web.Optimization.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Web.Razor.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Web.WebPages.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\WebGrease.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Web.Http.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Newtonsoft.Json.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Web.Helpers.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Web.Mvc.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Web.Optimization.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Web.Razor.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Web.WebPages.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\EntityFramework.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Owin.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Web.Http.Owin.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\obj\Debug\PracaAPI.csprojResolveAssemblyReference.cache
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\obj\Debug\PracaAPI.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\obj\Debug\PracaAPI.csproj.CopyComplete
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\obj\Debug\PracaAPI.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\obj\Debug\PracaAPI.pdb
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Owin.Cors.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Owin.Cors.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\EntityFramework.Extended.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\EntityFramework.Extended.pdb
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\EntityFramework.Extended.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\EntityFramework.Extended.dll.config
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\obj\Debug\PracaAPI.Migrations.InitialModel.resources
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\obj\Debug\PracaAPI.csproj.GenerateResource.cache
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\obj\Debug\PracaAPI.Migrations.AddTagsANDSmallFixes.resources
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\obj\Debug\PracaAPI.Migrations.FavouritesFix.resources
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\obj\Debug\PracaAPI.Migrations.UserPointsColumn.resources
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\netstandard.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.AppContext.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Collections.Concurrent.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Collections.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Collections.NonGeneric.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Collections.Specialized.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.ComponentModel.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.ComponentModel.Primitives.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Console.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Data.Common.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Diagnostics.Contracts.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Diagnostics.Debug.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Diagnostics.Process.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Diagnostics.Tools.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Diagnostics.Tracing.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Drawing.Primitives.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Dynamic.Runtime.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Globalization.Calendars.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Globalization.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Globalization.Extensions.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.IO.Compression.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.IO.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.IO.FileSystem.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.IO.IsolatedStorage.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.IO.Pipes.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Linq.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Linq.Expressions.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Linq.Parallel.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Linq.Queryable.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Net.Http.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Net.NameResolution.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Net.NetworkInformation.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Net.Ping.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Net.Primitives.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Net.Requests.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Net.Security.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Net.Sockets.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Net.WebSockets.Client.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Net.WebSockets.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.ObjectModel.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Reflection.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Reflection.Extensions.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Reflection.Primitives.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Resources.Reader.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Resources.ResourceManager.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Resources.Writer.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Runtime.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Runtime.Extensions.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Runtime.Handles.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Runtime.InteropServices.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Runtime.Numerics.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Security.Claims.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Security.Principal.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Security.SecureString.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Text.Encoding.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Text.RegularExpressions.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Threading.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Threading.Overlapped.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Threading.Tasks.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Threading.Thread.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Threading.ThreadPool.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Threading.Timer.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.ValueTuple.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Xml.ReaderWriter.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Xml.XDocument.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Xml.XmlDocument.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Xml.XmlSerializer.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Xml.XPath.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Options.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Remotion.Linq.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Collections.Immutable.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.ComponentModel.Annotations.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Interactive.Async.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Z.EntityFramework.Plus.EFCore.dll
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Options.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Remotion.Linq.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Collections.Immutable.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Interactive.Async.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\bin\Z.EntityFramework.Plus.EFCore.xml
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\obj\Debug\PracaAPI.Migrations.UpdatedModel.resources
+C:\Users\Paweł\Documents\Visual Studio 2017\Projects\PracaAPI\PracaAPI\obj\Debug\PracaAPI.Migrations.LastFix.resources
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\ApplicationInsights.config
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\PracaAPI.dll.config
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\PracaAPI.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\PracaAPI.pdb
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\csc.exe
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\csc.exe.config
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\csc.rsp
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\csi.exe
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\csi.exe.config
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\csi.rsp
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.Console.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\vbc.exe
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\vbc.exe.config
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\vbc.rsp
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\netstandard.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.AppContext.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Collections.Concurrent.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Collections.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Collections.NonGeneric.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Collections.Specialized.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.ComponentModel.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.ComponentModel.Primitives.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Console.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Data.Common.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Diagnostics.Contracts.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Diagnostics.Debug.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Diagnostics.Process.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Diagnostics.Tools.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Diagnostics.Tracing.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Drawing.Primitives.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Dynamic.Runtime.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Globalization.Calendars.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Globalization.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Globalization.Extensions.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.IO.Compression.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.IO.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.IO.FileSystem.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.IO.IsolatedStorage.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.IO.Pipes.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Linq.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Linq.Expressions.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Linq.Parallel.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Linq.Queryable.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Net.Http.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Net.NameResolution.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Net.NetworkInformation.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Net.Ping.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Net.Primitives.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Net.Requests.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Net.Security.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Net.Sockets.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Net.WebSockets.Client.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Net.WebSockets.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.ObjectModel.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Reflection.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Reflection.Extensions.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Reflection.Primitives.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Resources.Reader.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Resources.ResourceManager.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Resources.Writer.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Runtime.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Runtime.Extensions.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Runtime.Handles.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Runtime.InteropServices.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Runtime.Numerics.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Security.Claims.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Security.Principal.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Security.SecureString.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Text.Encoding.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Text.RegularExpressions.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Threading.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Threading.Overlapped.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Threading.Tasks.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Threading.Thread.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Threading.ThreadPool.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Threading.Timer.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.ValueTuple.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Xml.ReaderWriter.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Xml.XDocument.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Xml.XmlDocument.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Xml.XmlSerializer.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Xml.XPath.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Antlr3.Runtime.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\EntityFramework.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\EntityFramework.Extended.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Options.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Owin.Cors.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Owin.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Newtonsoft.Json.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Owin.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Remotion.Linq.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Collections.Immutable.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.ComponentModel.Annotations.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Interactive.Async.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Web.Cors.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Web.Helpers.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Web.Http.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Web.Http.Owin.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Web.Mvc.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Web.Optimization.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Web.Razor.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Web.WebPages.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\WebGrease.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Z.EntityFramework.Plus.EFCore.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\EntityFramework.Extended.pdb
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\EntityFramework.Extended.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\EntityFramework.Extended.dll.config
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Options.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Owin.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Owin.Cors.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Newtonsoft.Json.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Remotion.Linq.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Collections.Immutable.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Interactive.Async.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Web.Http.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Web.Helpers.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Web.Mvc.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Web.Optimization.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Web.Razor.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Web.WebPages.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Z.EntityFramework.Plus.EFCore.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\EntityFramework.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\System.Web.Http.Owin.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\obj\Debug\PracaAPI.csprojResolveAssemblyReference.cache
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\obj\Debug\PracaAPI.Migrations.InitialModel.resources
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\obj\Debug\PracaAPI.Migrations.AddTagsANDSmallFixes.resources
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\obj\Debug\PracaAPI.Migrations.FavouritesFix.resources
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\obj\Debug\PracaAPI.Migrations.UserPointsColumn.resources
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\obj\Debug\PracaAPI.Migrations.UpdatedModel.resources
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\obj\Debug\PracaAPI.Migrations.LastFix.resources
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\obj\Debug\PracaAPI.csproj.GenerateResource.cache
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\obj\Debug\PracaAPI.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\obj\Debug\PracaAPI.csproj.CopyComplete
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\obj\Debug\PracaAPI.dll
+C:\Users\Paweł\Desktop\Praca dyplomowa - Paweł Cygan\backend\PracaAPI\PracaAPI\obj\Debug\PracaAPI.pdb
